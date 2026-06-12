@@ -1,7 +1,7 @@
-body {background:blue;
+body {background:rgb(243, 215, 243);
 height: 100vh;
  ;}
-h1,h3,a {color:green;
+h1,h3,a {color:rgb(10, 40, 209);
 text-align:center
 ;}
 div {
@@ -14,7 +14,7 @@ div {
 }
 p{ text-align: center;}
 img{
-    margin-left: 350px;
+    margin-left: 30%;
 width: 350px;
 }
 
